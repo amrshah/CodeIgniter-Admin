@@ -48,6 +48,12 @@ class AdminDashboard extends CI_Controller {
 				case 'register':
 					$path = $path . 'pages/auth/';
 					break;
+				case 'backups-db': case 'backups-website': case 'system-cronjobs': case 'system-logs':
+					$path = $path . 'pages/system_settings/';
+					break;
+				case 'settings-admin': case 'settings-website': case 'settings-email':
+					$path = $path . 'pages/settings/';
+					break;
 					
 			}
 		}
