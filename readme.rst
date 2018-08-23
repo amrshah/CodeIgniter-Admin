@@ -59,4 +59,4 @@ Acknowledgement
 ***************
 
 I would like to thank AdminLTE designers and developers, all the
-contributors to the CodeIgniter Admin project and you, the CodeIgniter Admin user.
+contributors to the CodeIgniter project and you, the CodeIgniter Admin user.
